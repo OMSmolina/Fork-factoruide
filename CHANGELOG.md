@@ -4,6 +4,12 @@ Each version's tag message (`scripts/release.sh`), shown in the app's update pro
 
 Writing an entry: one short line per change, saying what the player sees or gets (not how it works inside), grouped under App, Guides, Addon and WoW data. Numbers and examples only when they tell the change better than words; details go to the commit.
 
+## Unreleased
+
+### Guides
+
+- Starting from your character: the quests already in your log are kept when the guide goes their way, a complete one is turned in on the way instead of abandoned, and none has to be taken again from its giver.
+
 ## 0.11.0 (2026-10-17)
 
 A new look for the addon (one card, minimal mode, compass bar, quest panel, 10 languages), farming on the way and respawn waits closer to the game, patrolling NPCs followed along their path, class quests planned for their spell, and windows that move from anywhere.
